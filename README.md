@@ -1,4 +1,6 @@
--How to install: 
+# Shorts Blocker
+
+- How to install: 
 
 
   1. Download and unzip 
@@ -10,13 +12,13 @@
   Enjoy and stop watching Youtube shorts. 
 
 
--How does it work: 
+- How does it work: 
 
   When you open a YouTube shorts after the extension was installed, the extension will close the YouTube shorts page and open a image that encourage you to go to work. 
 
 
 
--Possible future update: 
+- Possible future update: 
 
   I want to make something that manipulate the YouTube Recommend page to hide all YouTube Shorts. 
   Because I have never worked with Javascript / HTML / CSS I need to start learning before I can make something that are better than what it is now. So stay tune. 
